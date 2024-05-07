@@ -8,7 +8,6 @@ const sumItems = function(array) {
     }
   }
   return sum;
-
 };
 
 module.exports = sumItems;
